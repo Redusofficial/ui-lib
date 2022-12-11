@@ -1,3 +1,6 @@
+#Ui lib docs
+
+## Library loadstring
 ```lua
-local haha = "haha"
-print(haha)
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Redusofficial/titledhoodstuff/main/lib.lua"))()
+```
